@@ -8,7 +8,7 @@ sudo ln -s /lib64/libicuuc.so.65.1 /lib64/libicuuc.so.60
 sudo ln -s /lib64/libdouble-conversion.so.3.1.5 /lib64/libdouble-conversion.so.1
 
 # Extract from offical package
-ar -x PacketTracer_730_amd64.deb data.tar.xz
+ar -x PacketTracer_731_amd64.deb data.tar.xz
 tar -xvf data.tar.xz
 
 # Taken from the official package
